@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" rel="stylesheet');
+ :root {
+     --pbmit-global-color:  #ea130e;
+     --pbmit-secondary-color: #22262e;
+     --pbmit-light-color: #f9f9f9;
+     --pbmit-white-color:#ffffff;
+     --pbmit-link-color-normal: #22262e;
+     --pbmit-link-color-hover: #ea130e;
+     --pbmit-global-color-rgb: rgb(234, 19, 14);
+     --pbmit-Skin-color-rgb:rgb(34, 38, 46);
+     --pbmit-responsive-breakpoint: 1200px;
+     --pbmit-body-typography-font-family:'Work Sans', sans-serif;
+     --pbmit-body-typography-variant: regular;
+     --pbmit-body-typography-font-size: 15px;
+     --pbmit-body-typography-line-height: 24px;
+     --pbmit-body-typography-color: #9fa3aa;
+     --pbmit-heading-typography-font-family: 'Roboto Condensed', sans-serif;
+     --pbmit-heading-color: #22262e;
+     --pbmit-heading-font-variant: 700;
+     --pbmit-btn-typography-font-family:'Roboto Condensed', sans-serif;
+     --pbmit-btn-typography-variant: 700;
+     --pbmit-btn-typography-font-size: 15px;
+     --pbmit-btn-typography-line-height: 26px;
+}
+ 

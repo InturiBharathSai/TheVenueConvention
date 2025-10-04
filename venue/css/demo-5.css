@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet');
+ :root {
+     --pbmit-global-color:  #2a65c1;
+     --pbmit-secondary-color: #141570;
+     --pbmit-light-color: #f6faff;
+     --pbmit-white-color:#ffffff;
+     --pbmit-blackish-color: #313131;
+     --pbmit-link-color-normal: #141570;
+     --pbmit-link-color-hover: #2a65c1;
+     --pbmit-global-color-rgb: rgb(42, 101, 193);
+     --pbmit-secondary-color-rgb:rgb(20, 21, 112);
+     --pbmit-responsive-breakpoint: 1200px;
+     --pbmit-body-typography-font-family: 'Montserrat', sans-serif;
+     --pbmit-body-typography-variant: regular;
+     --pbmit-body-typography-font-size: 15px;
+     --pbmit-body-typography-line-height: 26px;
+     --pbmit-body-typography-color: #787c8b;
+     --pbmit-heading-typography-font-family: 'League Spartan', sans-serif;
+     --pbmit-heading-color: #13263e;
+     --pbmit-heading-font-variant: 700;
+     --pbmit-btn-typography-font-family:'League Spartan', sans-serif;
+     --pbmit-btn-typography-variant: 700;
+     --pbmit-btn-typography-font-size: 15px;
+     --pbmit-btn-typography-line-height: 26px;
+}
+ 
